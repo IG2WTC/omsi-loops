@@ -1,7 +1,7 @@
 "use strict";
 
 // eslint-disable-next-line prefer-const
-let gameSpeed = 5;
+let gameSpeed = 1;
 const baseManaPerSecond = 100;
 
 let curTime = new Date();
